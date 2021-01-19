@@ -191,8 +191,9 @@ nav ul {
   margin: 2rem;
 }
 .card h4,
-p {
+.card p {
   padding: 1rem;
+  line-height: 3rem;
 }
 .card-icon {
   background: #27394e;
